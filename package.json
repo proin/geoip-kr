@@ -1,0 +1,16 @@
+{
+    "name": "geoip-kr",
+    "version": "1.0.0",
+    "description": "lookup ip information at `http://whois.kisa.or.kr/kor/whois/openAPI_KeyCre.jsp`",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/proin/geoip-kr.git"
+    },
+    "author": "Yeonghun Chae <proin@proinlab.com> (http://proinlab.com)",
+    "keywords": [
+        "geoip",
+        "lookup ip"
+    ],
+    "license": "ISC"
+}
